@@ -1,0 +1,28 @@
+#!/bin/bash
+
+curl https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/OeffentlicheNetze/Mobilfunknetze/mobilfunknetze-node.html -o overview
+
+new=$(grep Detailansicht overview | cut -d ";" -f 1 | sed -e 's#.*href="#https://www.bundesnetzagentur.de/#')
+echo "New url: $new"
+file=$(basename $new)
+echo "Current round: $round"
+
+mkdir -p original
+curl $new -o original/$file
+
+round=$(echo $file | sed -e "s/.html//")
+i
+echo "Getting archive.."
+for old in `seq -w 1 $round`
+do
+  echo "..round $old"
+  curl https://www.bundesnetzagentur.de/_tools/FrequenzXml/Auktion2019_XML/$old.html -o original/$old.html
+done
+
+now=$(date +%s)
+
+rm overview
+
+git add original
+git commit -m "$now"
+git push
