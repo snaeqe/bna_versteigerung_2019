@@ -3,8 +3,8 @@
 mkdir -p text
 mkdir -p csv
 
-for file in $(ls original | cut -d "." -f 1)
 echo "Processing results.."
+for file in $(ls original | cut -d "." -f 1)
 do
   echo "..$file"
   links -dump original/$file.html > text/$file.txt
