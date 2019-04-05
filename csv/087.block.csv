@@ -10,7 +10,7 @@
 10A,2,2x5,abstrakt,Vodafone,35.779.000,2026
 11A,2,2x5,abstrakt,1und1 DRI,34.783.000,2026
 12A,2,2x5,abstrakt,TEF DE,38.261.000,2026
-01K,3.6,1x20,konkret
+01K,3.6,1x20,konkret,-,0
 02A,3.6,1x10,abstrakt,Telekom,13.823.000
 03A,3.6,1x10,abstrakt,Telekom,13.823.000
 04A,3.6,1x10,abstrakt,1und1 DRI,13.823.000
@@ -26,9 +26,9 @@
 14A,3.6,1x10,abstrakt,1und1 DRI,14.955.000
 15A,3.6,1x10,abstrakt,Telekom,14.984.000
 16A,3.6,1x10,abstrakt,Telekom,13.807.000
-17A,3.6,1x10,abstrakt
-18A,3.6,1x10,abstrakt
-19A,3.6,1x10,abstrakt
+17A,3.6,1x10,abstrakt,-,0
+18A,3.6,1x10,abstrakt,-,0
+19A,3.6,1x10,abstrakt,-,0
 20A,3.6,1x10,abstrakt,TEF DE,26.842.000
 21A,3.6,1x10,abstrakt,TEF DE,26.002.000
 22A,3.6,1x10,abstrakt,Vodafone,26.002.000
