@@ -17,10 +17,6 @@ do
   curl https://www.bundesnetzagentur.de/_tools/FrequenzXml/Auktion2019_XML/$old.html -o original/$old.html
 done
 
-now=$(date +%s)
-
 rm overview
 
-git add original
-git commit -m "$now"
-git push
+# vim: sts=2 sw=2 ts=2 et:

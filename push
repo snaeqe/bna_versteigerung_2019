@@ -1,0 +1,10 @@
+#!/bin/bash
+
+now=$(date +%s)
+
+git add original text csv
+git commit -m "$now"
+git push
+
+# vim: sts=2 sw=2 ts=2 et:
+
