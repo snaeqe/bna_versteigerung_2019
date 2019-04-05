@@ -3,16 +3,14 @@
 curl https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/OeffentlicheNetze/Mobilfunknetze/mobilfunknetze-node.html -o overview
 
 new=$(grep Detailansicht overview | cut -d ";" -f 1 | sed -e 's#.*href="#https://www.bundesnetzagentur.de/#')
-echo "New url: $new"
 file=$(basename $new)
-echo "Current round: $round"
 
 mkdir -p original
-curl $new -o original/$file
 
 round=$(echo $file | sed -e "s/.html//")
-i
-echo "Getting archive.."
+echo "Current round: $round"
+echo "Getting data.."
+
 for old in `seq -w 1 $round`
 do
   echo "..round $old"
