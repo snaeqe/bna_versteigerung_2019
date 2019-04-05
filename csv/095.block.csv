@@ -1,41 +1,41 @@
-01A,2,2x5,abstrakt,Telekom,72.091.000,2019
-02A,2,2x5,abstrakt,Telekom,72.091.000,2019
-03A,2,2x5,abstrakt,Vodafone,79.271.000,2019
-04A,2,2x5,abstrakt,Vodafone,79.271.000,2019
-05A,2,2x5,abstrakt,Telekom,79.321.000,2019
-06A,2,2x5,abstrakt,TEF DE,73.854.000,2019
-07A,2,2x5,abstrakt,Vodafone,78.469.000,2019
-08A,2,2x5,abstrakt,Telekom,86.315.000,2019
-09A,2,2x5,abstrakt,1und1 DRI,59.551.000,2026
-10A,2,2x5,abstrakt,Vodafone,67.631.000,2026
-11A,2,2x5,abstrakt,1und1 DRI,60.936.000,2026
-12A,2,2x5,abstrakt,TEF DE,67.016.000,2026
-01K,3.6,1x20,konkret,1und1 DRI,2.200.000,2019
-02A,3.6,1x10,abstrakt,1und1 DRI,27.735.000,2019
-03A,3.6,1x10,abstrakt,TEF DE,31.248.000,2019
-04A,3.6,1x10,abstrakt,Vodafone,26.725.000,2019
-05A,3.6,1x10,abstrakt,1und1 DRI,26.803.000,2019
-06A,3.6,1x10,abstrakt,Vodafone,26.803.000,2019
-07A,3.6,1x10,abstrakt,TEF DE,29.474.000,2019
-08A,3.6,1x10,abstrakt,1und1 DRI,26.473.000,2019
-09A,3.6,1x10,abstrakt,1und1 DRI,26.529.000,2019
-10A,3.6,1x10,abstrakt,1und1 DRI,30.475.000,2019
-11A,3.6,1x10,abstrakt,TEF DE,27.705.000,2019
-12A,3.6,1x10,abstrakt,TEF DE,27.705.000,2019
-13A,3.6,1x10,abstrakt,Vodafone,26.480.000,2019
-14A,3.6,1x10,abstrakt,TEF DE,29.095.000,2019
-15A,3.6,1x10,abstrakt,Vodafone,26.482.000,2019
-16A,3.6,1x10,abstrakt,TEF DE,27.705.000,2019
-17A,3.6,1x10,abstrakt,Telekom,29.819.000,2019
-18A,3.6,1x10,abstrakt,Telekom,26.842.000,2019
-19A,3.6,1x10,abstrakt,Telekom,26.842.000,2019
-20A,3.6,1x10,abstrakt,Telekom,29.526.000,2019
-21A,3.6,1x10,abstrakt,Telekom,28.602.000,2019
-22A,3.6,1x10,abstrakt,Vodafone,26.002.000,2019
-23A,3.6,1x10,abstrakt,Vodafone,26.002.000,2019
-24A,3.6,1x10,abstrakt,Vodafone,23.870.000,2019
-25A,3.6,1x10,abstrakt,Vodafone,23.870.000,2019
-26A,3.6,1x10,abstrakt,Telekom,26.279.000,2019
-27A,3.6,1x10,abstrakt,Telekom,26.279.000,2019
-28A,3.6,1x10,abstrakt,Telekom,26.279.000,2019
-29K,3.6,1x10,konkret,Telekom,23.870.000,2019
+01A,2,2,5,abstrakt,Telekom,72091000,2019
+02A,2,2,5,abstrakt,Telekom,72091000,2019
+03A,2,2,5,abstrakt,Vodafone,79271000,2019
+04A,2,2,5,abstrakt,Vodafone,79271000,2019
+05A,2,2,5,abstrakt,Telekom,79321000,2019
+06A,2,2,5,abstrakt,TEF DE,73854000,2019
+07A,2,2,5,abstrakt,Vodafone,78469000,2019
+08A,2,2,5,abstrakt,Telekom,86315000,2019
+09A,2,2,5,abstrakt,1und1 DRI,59551000,2026
+10A,2,2,5,abstrakt,Vodafone,67631000,2026
+11A,2,2,5,abstrakt,1und1 DRI,60936000,2026
+12A,2,2,5,abstrakt,TEF DE,67016000,2026
+01K,3.6,1,20,konkret,1und1 DRI,2200000,2019
+02A,3.6,1,10,abstrakt,1und1 DRI,27735000,2019
+03A,3.6,1,10,abstrakt,TEF DE,31248000,2019
+04A,3.6,1,10,abstrakt,Vodafone,26725000,2019
+05A,3.6,1,10,abstrakt,1und1 DRI,26803000,2019
+06A,3.6,1,10,abstrakt,Vodafone,26803000,2019
+07A,3.6,1,10,abstrakt,TEF DE,29474000,2019
+08A,3.6,1,10,abstrakt,1und1 DRI,26473000,2019
+09A,3.6,1,10,abstrakt,1und1 DRI,26529000,2019
+10A,3.6,1,10,abstrakt,1und1 DRI,30475000,2019
+11A,3.6,1,10,abstrakt,TEF DE,27705000,2019
+12A,3.6,1,10,abstrakt,TEF DE,27705000,2019
+13A,3.6,1,10,abstrakt,Vodafone,26480000,2019
+14A,3.6,1,10,abstrakt,TEF DE,29095000,2019
+15A,3.6,1,10,abstrakt,Vodafone,26482000,2019
+16A,3.6,1,10,abstrakt,TEF DE,27705000,2019
+17A,3.6,1,10,abstrakt,Telekom,29819000,2019
+18A,3.6,1,10,abstrakt,Telekom,26842000,2019
+19A,3.6,1,10,abstrakt,Telekom,26842000,2019
+20A,3.6,1,10,abstrakt,Telekom,29526000,2019
+21A,3.6,1,10,abstrakt,Telekom,28602000,2019
+22A,3.6,1,10,abstrakt,Vodafone,26002000,2019
+23A,3.6,1,10,abstrakt,Vodafone,26002000,2019
+24A,3.6,1,10,abstrakt,Vodafone,23870000,2019
+25A,3.6,1,10,abstrakt,Vodafone,23870000,2019
+26A,3.6,1,10,abstrakt,Telekom,26279000,2019
+27A,3.6,1,10,abstrakt,Telekom,26279000,2019
+28A,3.6,1,10,abstrakt,Telekom,26279000,2019
+29K,3.6,1,10,konkret,Telekom,23870000,2019
