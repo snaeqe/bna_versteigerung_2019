@@ -1,0 +1,112 @@
+   Link: canonical
+   Link: copyright: Impressum
+   Link: glossary: Glossar
+   Link: help: Hilfe
+   Link: start: Homepage
+   Link: contents: Übersicht
+   Link: search: Suche
+
+                             Navigation und Service
+
+   Springe direkt zu:
+
+     * Inhalt
+     * Hauptmenu
+     * Suche
+
+Service
+
+     * Kontakt
+     * English
+     * Leichte Sprache
+     * Gebärdensprache Videos
+     * RSS
+     * Twitter
+
+   Die Bundesnetzagentur (Link zur Startseite)
+
+Hauptmenu
+
+     * Themen
+     * Verbraucherservice
+     * Bundesnetzagentur
+     * Presse
+   Navigation
+   _____________________ [ Suchen ]
+
+   Sie sind hier:
+
+    1. Homepage
+
+Frequenzauktion 2019
+
+  Ergebnis der Runde 370
+
+   Frequenzbereich 2 GHz
+   Block            Ausstattung      Höchstbieter Höchstgebot 
+   01A 2 GHz        2x5 MHz abstrakt Telekom      213.312.000 
+   02A 2 GHz        2x5 MHz abstrakt Telekom      213.381.000 
+   03A 2 GHz        2x5 MHz abstrakt Vodafone     211.652.000 
+   04A 2 GHz        2x5 MHz abstrakt TEF DE       211.274.000 
+   05A 2 GHz        2x5 MHz abstrakt Vodafone     212.237.000 
+   06A 2 GHz        2x5 MHz abstrakt Telekom      211.157.000 
+   07A 2 GHz        2x5 MHz abstrakt Vodafone     213.816.000 
+   08A 2 GHz        2x5 MHz abstrakt Telekom      213.670.000 
+   09A 2 GHz (2026) 2x5 MHz abstrakt 1und1 DRI    166.842.000 
+   10A 2 GHz (2026) 2x5 MHz abstrakt 1und1 DRI    166.500.000 
+   11A 2 GHz (2026) 2x5 MHz abstrakt TEF DE       165.487.000 
+   12A 2 GHz (2026) 2x5 MHz abstrakt Vodafone     164.858.000 
+
+   Frequenzbereich 3,6 GHz
+   Block       Ausstattung       Höchstbieter Höchstgebot 
+   01K 3,6 GHz 1x20 MHz konkret  Vodafone     44.373.000  
+   02A 3,6 GHz 1x10 MHz abstrakt Telekom      123.421.000 
+   03A 3,6 GHz 1x10 MHz abstrakt TEF DE       122.820.000 
+   04A 3,6 GHz 1x10 MHz abstrakt Telekom      124.760.000 
+   05A 3,6 GHz 1x10 MHz abstrakt TEF DE       123.982.000 
+   06A 3,6 GHz 1x10 MHz abstrakt Telekom      123.775.000 
+   07A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    129.475.000 
+
+   Frequenzbereich 3,6 GHz
+   Block       Ausstattung       Höchstbieter Höchstgebot 
+   08A 3,6 GHz 1x10 MHz abstrakt Vodafone     125.140.000 
+   09A 3,6 GHz 1x10 MHz abstrakt Vodafone     123.107.000 
+   10A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    130.038.000 
+   11A 3,6 GHz 1x10 MHz abstrakt Vodafone     123.632.000 
+   12A 3,6 GHz 1x10 MHz abstrakt Telekom      125.259.000 
+   13A 3,6 GHz 1x10 MHz abstrakt Vodafone     124.145.000 
+   14A 3,6 GHz 1x10 MHz abstrakt Telekom      122.983.000 
+   15A 3,6 GHz 1x10 MHz abstrakt Vodafone     124.666.000 
+   16A 3,6 GHz 1x10 MHz abstrakt TEF DE       123.360.000 
+   17A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    129.944.000 
+   18A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    128.875.000 
+   19A 3,6 GHz 1x10 MHz abstrakt TEF DE       124.232.000 
+   20A 3,6 GHz 1x10 MHz abstrakt Vodafone     124.232.000 
+   21A 3,6 GHz 1x10 MHz abstrakt Telekom      123.120.000 
+   22A 3,6 GHz 1x10 MHz abstrakt Telekom      122.789.000 
+   23A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    128.880.000 
+   24A 3,6 GHz 1x10 MHz abstrakt TEF DE       123.265.000 
+   25A 3,6 GHz 1x10 MHz abstrakt TEF DE       123.252.000 
+   26A 3,6 GHz 1x10 MHz abstrakt Vodafone     125.238.000 
+   27A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    129.969.000 
+   28A 3,6 GHz 1x10 MHz abstrakt Telekom      123.258.000 
+   29K 3,6 GHz 1x10 MHz konkret  Telekom      127.597.000 
+
+   Summe 5.913.773.000 
+
+  Service
+
+   Netzausbau
+   Preise und Rechnungen
+   Photovoltaik
+   Grund- und Ersatzversorgung
+
+   © Bundesnetzagentur - 2019
+
+   Impressum
+
+   Datenschutz
+
+   zum Anfang der Seite
+
+    
