@@ -1,5 +1,5 @@
 #!/bin/bash
 
-./download
-./process
-./push
+. ./download
+. ./process
+. ./push

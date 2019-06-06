@@ -1,6 +1,7 @@
 #!/bin/bash
 
-curl https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/OeffentlicheNetze/Mobilfunknetze/mobilfunknetze-node.html -o overview
+[ $HTTP_PROXY ] && my_proxy="-x $HTTP_PROXY"
+curl $my_proxy https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/OeffentlicheNetze/Mobilfunknetze/mobilfunknetze-node.html -o overview
 
 new=$(grep Detailansicht overview | cut -d ";" -f 1 | sed -e 's#.*href="#https://www.bundesnetzagentur.de/#')
 file=$(basename $new)
