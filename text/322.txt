@@ -3,7 +3,7 @@
    Link: glossary: Glossar
    Link: help: Hilfe
    Link: start: Homepage
-   Link: contents: Übersicht
+   Link: contents: Ãœbersicht
    Link: search: Suche
 
                              Navigation und Service
@@ -19,7 +19,7 @@ Service
      * Kontakt
      * English
      * Leichte Sprache
-     * Gebärdensprache Videos
+     * GebÃ¤rdensprache Videos
      * RSS
      * Twitter
 
@@ -43,7 +43,7 @@ Frequenzauktion 2019
   Ergebnis der Runde 322
 
    Frequenzbereich 2 GHz
-   Block            Ausstattung      Höchstbieter Höchstgebot 
+   Block            Ausstattung      HÃ¶chstbieter HÃ¶chstgebot 
    01A 2 GHz        2x5 MHz abstrakt Telekom      213.312.000 
    02A 2 GHz        2x5 MHz abstrakt Telekom      213.381.000 
    03A 2 GHz        2x5 MHz abstrakt Vodafone     211.652.000 
@@ -58,7 +58,7 @@ Frequenzauktion 2019
    12A 2 GHz (2026) 2x5 MHz abstrakt Vodafone     164.858.000 
 
    Frequenzbereich 3,6 GHz
-   Block       Ausstattung       Höchstbieter Höchstgebot 
+   Block       Ausstattung       HÃ¶chstbieter HÃ¶chstgebot 
    01K 3,6 GHz 1x20 MHz konkret  Vodafone     44.373.000  
    02A 3,6 GHz 1x10 MHz abstrakt Telekom      118.629.000 
    03A 3,6 GHz 1x10 MHz abstrakt TEF DE       118.051.000 
@@ -69,7 +69,7 @@ Frequenzauktion 2019
    08A 3,6 GHz 1x10 MHz abstrakt TEF DE       117.924.000 
 
    Frequenzbereich 3,6 GHz
-   Block       Ausstattung       Höchstbieter Höchstgebot 
+   Block       Ausstattung       HÃ¶chstbieter HÃ¶chstgebot 
    09A 3,6 GHz 1x10 MHz abstrakt Vodafone     118.328.000 
    10A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    130.038.000 
    11A 3,6 GHz 1x10 MHz abstrakt Vodafone     118.832.000 
@@ -92,8 +92,8 @@ Frequenzauktion 2019
    28A 3,6 GHz 1x10 MHz abstrakt Vodafone     118.473.000 
    29K 3,6 GHz 1x10 MHz konkret  Telekom      127.597.000 
 
-   Summe aller gehaltenen Höchstgebote                          5.325.417.000 
-   Zahlungsverpflichtung aufgrund zurückgenommener Höchstgebote 468.599.000   
+   Summe aller gehaltenen HÃ¶chstgebote                          5.325.417.000 
+   Zahlungsverpflichtung aufgrund zurÃ¼ckgenommener HÃ¶chstgebote 468.599.000   
    Summe                                                        5.794.016.000 
 
   Service
@@ -103,7 +103,7 @@ Frequenzauktion 2019
    Photovoltaik
    Grund- und Ersatzversorgung
 
-   © Bundesnetzagentur - 2019
+   Â© Bundesnetzagentur - 2019
 
    Impressum
 

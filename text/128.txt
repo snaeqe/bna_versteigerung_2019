@@ -3,7 +3,7 @@
    Link: glossary: Glossar
    Link: help: Hilfe
    Link: start: Homepage
-   Link: contents: Übersicht
+   Link: contents: Ãœbersicht
    Link: search: Suche
 
                              Navigation und Service
@@ -19,7 +19,7 @@ Service
      * Kontakt
      * English
      * Leichte Sprache
-     * Gebärdensprache Videos
+     * GebÃ¤rdensprache Videos
      * RSS
      * Twitter
 
@@ -43,7 +43,7 @@ Frequenzauktion 2019
   Ergebnis der Runde 128
 
    Frequenzbereich 2 GHz
-   Block            Ausstattung      Höchstbieter Höchstgebot 
+   Block            Ausstattung      HÃ¶chstbieter HÃ¶chstgebot 
    01A 2 GHz        2x5 MHz abstrakt Vodafone     138.776.000 
    02A 2 GHz        2x5 MHz abstrakt Telekom      145.714.000 
    03A 2 GHz        2x5 MHz abstrakt Vodafone     140.429.000 
@@ -58,7 +58,7 @@ Frequenzauktion 2019
    12A 2 GHz (2026) 2x5 MHz abstrakt TEF DE       108.242.000 
 
    Frequenzbereich 3,6 GHz
-   Block       Ausstattung       Höchstbieter Höchstgebot 
+   Block       Ausstattung       HÃ¶chstbieter HÃ¶chstgebot 
    01K 3,6 GHz 1x20 MHz konkret  Vodafone     2.688.000   
    02A 3,6 GHz 1x10 MHz abstrakt TEF DE       64.776.000  
    03A 3,6 GHz 1x10 MHz abstrakt 1und1 DRI    63.778.000  
@@ -68,7 +68,7 @@ Frequenzauktion 2019
    07A 3,6 GHz 1x10 MHz abstrakt Telekom      43.161.000  
 
    Frequenzbereich 3,6 GHz
-   Block       Ausstattung       Höchstbieter Höchstgebot 
+   Block       Ausstattung       HÃ¶chstbieter HÃ¶chstgebot 
    08A 3,6 GHz 1x10 MHz abstrakt TEF DE       64.887.000  
    09A 3,6 GHz 1x10 MHz abstrakt TEF DE       64.867.000  
    10A 3,6 GHz 1x10 MHz abstrakt Telekom      44.617.000  
@@ -101,7 +101,7 @@ Frequenzauktion 2019
    Photovoltaik
    Grund- und Ersatzversorgung
 
-   © Bundesnetzagentur - 2019
+   Â© Bundesnetzagentur - 2019
 
    Impressum
 
